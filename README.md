@@ -1,5 +1,7 @@
 # i-mod-java
-Java project made in high school.
+A modular Java application designed to make modifications to images.
+
+Made as a final project for a grade 12 high school java course.
 
 IMOD is an image modification program that allows the user to apply one of several given modifications to any image.
 User can choose where this new file will be saved and name it, after which it is displayed on a window.
