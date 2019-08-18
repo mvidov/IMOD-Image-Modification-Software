@@ -3,6 +3,8 @@ A modular Java application designed to make modifications to images.
 
 Made as a final project for a grade 12 high school java course.
 
+Note: See the demo images above for a visual of the project in action.
+
 IMOD is an image modification program that allows the user to apply one of several given modifications to any image.
 User can choose where this new file will be saved and name it, after which it is displayed on a window.
 The modifications available are similar to filters, and they include:
