@@ -27,4 +27,4 @@ JAMA 'Matrix' class is used in this project. retrieved from: https://math.nist.g
 
 Here is the main menu:
 
-![Menu](/IMOD_MAIN_MENU.jpg)
+![Menu](/IMOD_MENU.png)
