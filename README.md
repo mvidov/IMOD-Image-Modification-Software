@@ -24,3 +24,7 @@ for the underlying math to simulate colour blindness, as well as the theory behi
 https://ixora.io/projects/colorblindness/color-blindness-simulation-research/
 
 JAMA 'Matrix' class is used in this project. retrieved from: https://math.nist.gov/javanumerics/jama/
+
+Here is the main menu:
+
+![Menu](/IMOD_MAIN_MENU.jpg)
