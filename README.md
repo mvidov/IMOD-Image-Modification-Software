@@ -29,6 +29,10 @@ Here is the main menu:
 
 ![Menu](/IMOD_MENU.PNG)
 
-Here are some images of the application in action:
+Here is the compare mode in action:
 
 ![Image1](/IMOD_DEMO_1.PNG)
+
+And this final image showcases the modify mode:
+
+![Image2](/IMOD_DEMO_2.PNG)
